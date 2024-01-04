@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web
 - 💞️ I’m looking to collaborate on web related work
 - 📫 How to reach me
-- gmail : sahabnoor193@gmail.com
+- Gmail : sahabnoor193@gmail.com
 - LinkedIn : sahab-noor-028945238
 
 <!---
